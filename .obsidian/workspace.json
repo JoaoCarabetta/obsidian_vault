@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "707d8c910894329b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6721c0a2cc8c3e0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "aa288e14bd1b684c",
+            "type": "tabs",
+            "dimension": 78.14814814814815,
+            "children": [
+              {
+                "id": "af091aa381702ad5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Grid.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "9849324556ecfd46",
+            "type": "tabs",
+            "dimension": 21.85185185185186,
+            "children": [
+              {
+                "id": "216b0488bedfc754",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "diagram-edit",
+                  "state": {
+                    "file": "Grid Infrastructure.svg"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "71a92d0428b02b8b",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.4.16"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8823f7ccc8f1857",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1b145800bb1b638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "081b028dfb9b26c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65e8392303a8f59c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ce531d57043d829",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 533.5
+  },
+  "right": {
+    "id": "1d21ee13d5ef6bf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9591e158be85c42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e79807909ae860fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Grid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b57b07f939eae57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Grid.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b97e68911579ad84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed101c90a9d3e5da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Grid.md"
+              }
+            }
+          },
+          {
+            "id": "7cf318bad1407ef4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0640948fd71672fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "af091aa381702ad5",
+  "lastOpenFiles": [
+    "Grid Infrastructure.svg",
+    "2023-07-29.md",
+    "2023-11-29.md",
+    "Olá.md",
+    "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "Untitled 2.md",
+    "Pasted image 20231125033434.png",
+    "Pasted image 20231125013659.png",
+    "Untitled 1.canvas",
+    "Grid.md",
+    "Untitled 3.md",
+    "Pasted image 20231130161607.png",
+    "Untitled.md",
+    "Pasted image 20231129185553.png",
+    "Pasted image 20231129185441.png",
+    "Pasted image 20231129185402.png",
+    "Excalidraw/Drawing 2023-11-29 17.24.38.excalidraw.md",
+    "Excalidraw",
+    "Untitled 1.md",
+    "Untitled"
+  ]
+}
