@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6721c0a2cc8c3e0f",
-        "type": "split",
+        "id": "aa288e14bd1b684c",
+        "type": "tabs",
         "children": [
           {
-            "id": "aa288e14bd1b684c",
-            "type": "tabs",
-            "dimension": 78.14814814814815,
-            "children": [
-              {
-                "id": "af091aa381702ad5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Grid.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "af091aa381702ad5",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Grid Infrastructure.svg"
               }
-            ]
-          },
-          {
-            "id": "9849324556ecfd46",
-            "type": "tabs",
-            "dimension": 21.85185185185186,
-            "children": [
-              {
-                "id": "216b0488bedfc754",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "diagram-edit",
-                  "state": {
-                    "file": "Grid Infrastructure.svg"
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "71a92d0428b02b8b",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.4.16"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "1d21ee13d5ef6bf8",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grid.md",
+                "file": "Grid Infrastructure.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grid.md",
+                "file": "Grid Infrastructure.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grid.md"
+                "file": "Grid Infrastructure.svg"
               }
             }
           },
@@ -203,6 +165,7 @@
   },
   "active": "af091aa381702ad5",
   "lastOpenFiles": [
+    "Grid.md",
     "Grid Infrastructure.svg",
     "2023-07-29.md",
     "2023-11-29.md",
@@ -213,7 +176,6 @@
     "Pasted image 20231125033434.png",
     "Pasted image 20231125013659.png",
     "Untitled 1.canvas",
-    "Grid.md",
     "Untitled 3.md",
     "Pasted image 20231130161607.png",
     "Untitled.md",
